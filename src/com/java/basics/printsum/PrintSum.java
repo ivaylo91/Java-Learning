@@ -1,4 +1,4 @@
-package com.java.basics;
+package com.java.basics.printsum;
 
 import java.util.Scanner;
 
