@@ -1,3 +1,5 @@
+package com.java.variables;
+
 import java.util.Scanner;
 
 public class ReverseChars {
